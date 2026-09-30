@@ -1,0 +1,6 @@
+{
+  "name": "Lumina - Cosmic Perspective & Global Clarity",
+  "description": "Lumina provides premium clarity on global events and cosmic wonders, featuring an immersive video experience with liquid glass interface design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
